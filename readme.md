@@ -19,7 +19,7 @@ A simple, command-line password manager written in Rust.
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/your-username/password-man.git
+    git clone https://github.com/princeb777/password-man.git
     ```
 2.  Navigate to the project directory:
     ```bash
